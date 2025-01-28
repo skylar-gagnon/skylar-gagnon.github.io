@@ -1,1 +1,1 @@
-# automad.github.io
+# skylar-gagnon.github.io
