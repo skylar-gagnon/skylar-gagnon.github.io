@@ -1,4 +1,7 @@
-title: Skylar Gagnon
+title: AutoMAD: Leveraging Large Language Models for Automated Microarchitectural Attack Discovery
+description: Senior project website
+downloads: true
+
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
