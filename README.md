@@ -31,9 +31,9 @@ Beyond research, I love tinkering with hardware: building computers, working wit
 
 ## Research Skills:
 
-**Data Analysis & Visualization:** SciPy, MatPlotLib, Pandas, Numpy
+**General:** Academic Paper Reviews, Writing/Reading Technical Documentation, Proficient with LaTeX
 
-**Academic Paper Review & Technical Documentation:** ?
+**Data Analysis & Visualization:** SciPy, MatPlotLib, Pandas, Numpy
 
 **Conference Presentations & Public Speaking:** Presented at URC 2024, URC 2025, and WISE 2024
 
