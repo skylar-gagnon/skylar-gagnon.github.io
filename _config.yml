@@ -1,8 +1,8 @@
-title: 'AutoMAD: Leveraging Large Language Models for Automated Microarchitectural Attack Discovery'
+title: "Hi, I\’m Skylar Gagnon — Computer Engineer & Security Researcher"
+description: "Senior Honors student at UNH | Microarchitectural Security | Machine Learning Enthusiast"
+downloads: true
 theme: jekyll-theme-minimal
-# description: Senior project website
-# downloads: true
 
-# remote_theme: pages-themes/cayman@v0.2.0
-# plugins:
-# - jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
